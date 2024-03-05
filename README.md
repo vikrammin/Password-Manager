@@ -4,9 +4,9 @@
 Password manager program built using Python. The program stores the user's inputs into a JSON file. The file, 'login.json', will be created once the user runs the program and enters their information. 
 
 ## Features: 
-Password Generation: Users can generate secure passwords of variable length containing letters, numbers, and symbols.
-Password Storage: Store website URLs, corresponding email addresses/usernames, and passwords securely.
-Password Retrieval: Retrieve stored passwords by searching for the corresponding website URL.
+__**Password Generation**__: Users can generate secure passwords of variable length containing letters, numbers, and symbols.<br>
+__**Password Storage**__: Store website URLs, corresponding email addresses/usernames, and passwords securely.<br>
+__**Password Retrieval**__: Retrieve stored passwords by searching for the corresponding website URL.
 <br>
 <br>
 ### Here's a visual representation of the program's interface:
